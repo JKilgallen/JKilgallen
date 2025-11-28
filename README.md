@@ -1,7 +1,6 @@
 Hi, I’m Jack Kilgallen.
 
-- I’m interested in all sorts of things, from the more abstract end of things like statistical machine learning and the esoteric world of pure mathematics, 
-  to the more applied kinds of research like computational neuroscience. 
-- I'm currently working towards a PhD in Data Science which is fully funded by Science Foundation Ireland's Centre for Research Training program.
-- I’m looking to collaborate on pretty much anything that will let me apply, and hone, some of the data science skills I've gotten out of my undergraduate degree in Computational Thinking.
-- Feel free to contact me at jkilgallen@pm.me, unless you're working in penetration testing, in which case leaving a text file on my desktop is fine.
+- When it comes to coding I have a wide range of interests, but I specialize in data science, deep learning, and computational neuroscience.  
+- I recently submitted my thesis for a PhD in data science, and now I'm looking to apply my skills and expertise in industry.
+- In my spare time, I volunteer with the Irish Coast Guard, both as a first responder, and as a data scientist. Currently, I'm exploring historical incident data to identify seasonal and geographic trends which can be used to improve our operational preparidness.  
+- Feel free to contact me at jkilgallen@proton.mail, unless you're working in penetration testing, in which case leaving a text file on my desktop is fine.
